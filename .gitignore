@@ -1,0 +1,11 @@
+/libfprint
+/Makefile
+/config.h
+/config.log
+/config.status
+/doc/Makefile
+/examples/.deps/
+/examples/Makefile
+/libfprint.pc
+/libtool
+/stamp-h1
